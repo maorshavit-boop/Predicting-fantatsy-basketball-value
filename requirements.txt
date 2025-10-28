@@ -1,0 +1,36 @@
+# Data Handling and Analysis
+pandas
+numpy
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning and Preprocessing (Scikit-learn)
+scikit-learn
+# Note: scikit-learn includes all necessary sub-modules like:
+# sklearn.decomposition
+# sklearn.model_selection
+# sklearn.inspection
+# sklearn.tree
+# sklearn.linear_model
+# sklearn.metrics
+# sklearn.pipeline
+# sklearn.preprocessing
+# sklearn.cluster
+# sklearn.ensemble
+# sklearn.compose
+
+# Advanced Models
+xgboost
+
+# API Interaction
+nba-api
+
+# Utilities (Often included for completeness, though sometimes not strictly necessary)
+# datetime (part of standard Python library)
+# time (part of standard Python library)
+# requests (used by nba-api, but often good to list explicitly if using exceptions)
+requests
