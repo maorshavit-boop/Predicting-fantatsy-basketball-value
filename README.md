@@ -5,10 +5,10 @@ Fantasy_NBA.ipynb — main notebook (cleaned outputs).
 Fantasy_NBA.pdf - final report (with outputs).  
 requirements.txt — Python dependencies.  
 README.md — this file.  
-# Author
-Maor Shavit  
-LinkedIn Profile [linkedin.com/in/maorshavit]
-Email: maorshavit@gmail.com  
-pip install -r requirements.txt  
+
+## Author
+- Maor Shavit  
+- [LinkedIn Profile](linkedin.com/in/maorshavit) 
+- Email: maorshavit@gmail.com 
 
 jupyter notebook Running_Performance.ipynb
