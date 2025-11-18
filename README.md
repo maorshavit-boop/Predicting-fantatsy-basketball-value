@@ -7,7 +7,7 @@ requirements.txt — Python dependencies.
 README.md — this file.  
 # Author
 Maor Shavit  
-LinkedIn Profile #need to complete it  
+LinkedIn Profile [linkedin.com/in/maorshavit]
 Email: maorshavit@gmail.com  
 pip install -r requirements.txt  
 
