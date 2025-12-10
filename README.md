@@ -44,7 +44,7 @@ I framed this as a regression problem, testing multiple models to predict the `N
 
 ## How to run
 1. Clone the repo by - git clone [https://github.com/maorshavit-boop/Predicting-fantatsy-basketball-value.git](https://github.com/maorshavit-boop/Predicting-fantatsy-basketball-value.git)
-2. Install dependencies - pip install -r requirements.txt
+2. Install dependencies by - pip install -r requirements.txt
 3. Open the notebook in Jupyter Lab/Notebook
 
 ## Project Structure
