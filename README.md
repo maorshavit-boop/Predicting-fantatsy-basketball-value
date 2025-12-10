@@ -32,7 +32,6 @@ I framed this as a regression problem, testing multiple models to predict the `N
 
 | Model | MAE (Mean Abs Error) | R² Score | Notes |
 | :---- | :---- | :---- | :---- |
-
 | **OLS (Statsmodels)** | **1.750** | **0.714** | **Best Performer.** Used backward elimination for feature selection. |
 | Random Forest | 1.816 | 0.692 | Good at capturing non-linearities but slightly overfitted. |
 | XGBoost | 1.801 | 0.686 | Robust, but slightly behind OLS in this specific dataset. |
