@@ -37,7 +37,7 @@ I framed this as a regression problem, testing multiple models to predict the `N
 | XGBoost | 1.801 | 0.686 | Robust, but slightly behind OLS in this specific dataset. |
 | *Baseline* | *1.857* | *0.669* | *Naive prediction (Next Year = Last Year).* |
 
-## 📈 Key Findings
+## Key Findings
 1.  **OLS Supremacy:** Surprisingly, the simple Ordinary Least Squares (OLS) model performed best. This suggests that the relationship between past and future stats is largely linear.
 2.  **The "Scoring" Bias:** Feature importance analysis showed that **Points (PTS)** and **Points Per 36** were the strongest predictors of future fantasy success.
 3.  **Predictability:** Calculating the "stability" of stats showed that **Assists** and **Rebounds** are highly predictable year-over-year, while **FG%** and **FT%** are volatile and harder to forecast.
