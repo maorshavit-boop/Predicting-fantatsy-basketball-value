@@ -50,7 +50,7 @@ I framed this as a regression problem, testing multiple models to predict the `N
 ## Project Structure
 ```text
 ├── data/               # Raw and processed CSV data
-├── images/             # Visualizations for the README
+├── plots/              # Visualizations for the README
 ├── notebooks/          # Jupyter Notebooks with full analysis
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project overview
