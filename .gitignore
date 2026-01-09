@@ -1,0 +1,28 @@
+# --- Python & Jupyter Junk ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Operating System Files ---
+.DS_Store
+
+# --- Data & Models (Keep these local only) ---
+# Ignore the entire data folder content, but keep the folder structure
+data/*
+!data/.gitkeep
+
+# Ignore large model files
+models/*
+!models/.gitkeep
+
+# --- Intermediate Artifacts ---
+# Ignore the pickle files passed between notebooks
+*.pkl
+*.csv
+*.xlsx
+
+# --- Environment ---
+.env
+venv/
+.idea/
+.venv/
