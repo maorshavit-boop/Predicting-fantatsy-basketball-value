@@ -51,6 +51,7 @@ I framed this as a regression problem, testing multiple models to predict the `N
 ```text
 ├── data/               # Raw and processed CSV data
 ├── plots/              # Visualizations for the README
-├── notebooks/          # Jupyter Notebooks with full analysis
+├── code/               # Jupyter Notebooks with full analysis
 ├── requirements.txt    # Python dependencies
+├── .gitignore          
 └── README.md           # Project overview
