@@ -42,6 +42,14 @@ I framed this as a regression problem, testing multiple models to predict the `N
 2.  **The "Scoring" Bias:** Feature importance analysis showed that **Points (PTS)** and **Points Per 36** were the strongest predictors of future fantasy success.
 3.  **Predictability:** Calculating the "stability" of stats showed that **Assists** and **Rebounds** are highly predictable year-over-year, while **FG%** and **FT%** are volatile and harder to forecast.
 
+## Main Plots
+| Features Correlation Matrix | Confussion Matrix - Logistic Regression |
+|:------------------:|:----------------:|
+| ![Year to Year correlation](plots/Year_to_Year_correlation_heatmap.png) |![Feature importance](plots/Random_Forrest_feature_importance.png) |
+| **Kmeans Vizualization** | **Model Performance Comparsion - Table** |
+| ![Model Comparison table](plots/Model_Comparison_table.png) |![Model performance comparsion - table](plots/Model_Performance_Comparison.png) |
+
+
 ## How to run
 1. Clone the repo by - git clone [https://github.com/maorshavit-boop/Predicting-fantatsy-basketball-value.git](https://github.com/maorshavit-boop/Predicting-fantatsy-basketball-value.git)
 2. Install dependencies by - pip install -r requirements.txt
