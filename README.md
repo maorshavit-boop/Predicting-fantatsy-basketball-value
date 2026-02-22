@@ -45,10 +45,9 @@ I framed this as a regression problem, testing multiple models to predict the `N
 ## Main Plots
 | Features Correlation Matrix | Confussion Matrix - Logistic Regression |
 |:------------------:|:----------------:|
-| ![Year to Year correlation](plots/Year_to_Year_correlation_heatmap.png) |![Feature importance](plots/Random_Forrest_feature_importance.png) |
+| ![Year to Year correlation](plots/Year_to_Year_correlation_heatmap.png) |![Feature importance](plots/Random_Forest_feature_importance.png) |
 | **Kmeans Vizualization** | **Model Performance Comparsion - Table** |
 | ![Model Comparison table](plots/Model_Comparison_table.png) |![Model performance comparsion - table](plots/Model_Performance_Comparison.png) |
-
 
 ## How to run
 1. Clone the repo by - git clone [https://github.com/maorshavit-boop/Predicting-fantatsy-basketball-value.git](https://github.com/maorshavit-boop/Predicting-fantatsy-basketball-value.git)
